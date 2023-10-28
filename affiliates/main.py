@@ -2,7 +2,7 @@ import pandas as pd
 import re
 from urllib.parse import urlparse
 from scrapy.crawler import CrawlerProcess
-from affiliates.affiliates.spiders import \
+from affiliates.spiders import \
     (
         cnet,
         pcmag,

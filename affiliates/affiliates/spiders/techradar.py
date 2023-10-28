@@ -1,4 +1,4 @@
-from affiliates.affiliates.BaseSpider import BaseSpider
+from affiliates.BaseSpider import BaseSpider
 from scrapy.loader import ItemLoader
 from ..items import ContentItem
 

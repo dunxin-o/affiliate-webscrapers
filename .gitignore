@@ -3,5 +3,5 @@
 *.csv
 */*.csv
 .idea
-*/__pycache__
-*/data
+__pycache__/
+data/
